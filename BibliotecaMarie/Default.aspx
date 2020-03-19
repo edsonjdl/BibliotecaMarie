@@ -12,7 +12,7 @@
         <div class="col-md-4">
             <h2>Veja os livros da biblioteca</h2>
             <p>
-                Conheça todos os livros. 
+                Conheça todos os livros.
             </p>
             <p>
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Ver livros &raquo;</a>
